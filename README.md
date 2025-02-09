@@ -25,7 +25,7 @@ I'm a dedicated biotechnology and bioinformatics postgraduate with a strong pass
 - **C**
 
 ### **Laboratory Techniques**
-- **PCR, DNA Isolation, Gel Electrophoresis, Cell Culture Techniques**
+- **PCR, DNA Isolation, Gel Electrophoresis **
 
 ### **Soft Skills**
 - **Leadership & Analytical Thinking**: Practical problem-solving, decision-making
